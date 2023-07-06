@@ -15,7 +15,7 @@ From your command line, first clone Simplefolio:
 
 bash
 # Clone the repository
-$ git clone https://github.com/riyasingh3194/portfoilo
+$ git clone https://github.com/pranayak47/Portfolio/tree/master
 
 # Move into the repository
 $ cd simplefolio
